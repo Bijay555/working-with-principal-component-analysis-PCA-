@@ -1,4 +1,4 @@
-# working-with-principal-component-analysis-PCA
+# Working-with-principal-component-analysis-PCA
 
 
 # PCA
